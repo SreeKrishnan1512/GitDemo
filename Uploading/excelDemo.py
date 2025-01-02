@@ -48,6 +48,10 @@ print("This is to check the develop branch")
 
 ### GITHUB X checking the develop branch. This is interesting  ###
 
+### GITHUB X checking the develop branch with git checkout -b develop. This is interesting  ###
+
+
+
 '''
 for key,value in Dict.items():
      print(f"{key}: {value}")
